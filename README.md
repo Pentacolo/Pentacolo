@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @Pentacolo 
 - 👀 I'm interested in video games development and theoric physics 
-- 🌱 I'm an electronic engineer student, and in a close future I want to study a physics postgrad.
-- 💞️ Currently I'm working on IoT devices develop for a smart house, and on the develop of electronics solutions to divers problems.
+- 🌱 I'm an electronic engineer.
+- 💞️ Currently I'm working on smart devices bases on pic technology.
 - 📫 If you want to contact to me, send me a mail to pentacoloagustin@gmail.com
 
 <!---
